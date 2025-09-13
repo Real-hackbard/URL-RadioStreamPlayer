@@ -1,0 +1,229 @@
+[Closed Files]
+File_0=SourceModule,'D:\Incoming\[.WORK]\URL Radio Stream Player\RT_BASSWMA.pas',0,1,1,1,8,0,0
+File_1=SourceModule,'D:\Incoming\[.WORK]\URL Radio Stream Player\RT_bassmidi.pas',0,1,1,1,7,0,0
+File_2=SourceModule,'D:\Incoming\[.WORK]\URL Radio Stream Player\RT_basscd.pas',0,1,1,1,7,0,0
+File_3=SourceModule,'D:\Incoming\[.WORK]\URL Radio Stream Player\PluginCtrl.pas',0,1,1,1,1,0,0
+File_4=SourceModule,'D:\Incoming\[.WORK]\URL Radio Stream Player\PluginConfig.pas',0,1,1,1,1,0,0
+File_5=SourceModule,'D:\Incoming\[.WORK]\URL Radio Stream Player\OggVorbis.pas',0,1,16,1,1,0,0
+File_6=SourceModule,'D:\Incoming\[.WORK]\URL Radio Stream Player\MPEGaudio.pas',0,1,1,1,1,0,0
+File_7=SourceModule,'D:\Incoming\[.WORK]\URL Radio Stream Player\VisDrive.pas',0,1,1,1,1,0,0
+File_8=SourceModule,'D:\Incoming\[.WORK]\URL Radio Stream Player\TAGEdit.pas',0,1,1,1,1,0,0
+File_9=SourceModule,'D:\Incoming\[.WORK]\URL Radio Stream Player\slider.pas',0,1,1,1,1,0,0
+
+[Modules]
+Module0=D:\Incoming\[.WORK]\URL Radio Stream Player\ioplug.pas
+Module1=D:\Incoming\[.WORK]\URL Radio Stream Player\Dynamic_Bass.pas
+Module2=D:\Incoming\[.WORK]\URL Radio Stream Player\AddonConfig.pas
+Module3=D:\Incoming\[.WORK]\URL Radio Stream Player\BassTest.pas
+Count=4
+EditWindowCount=1
+
+[D:\Incoming\[.WORK]\URL Radio Stream Player\ioplug.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[D:\Incoming\[.WORK]\URL Radio Stream Player\Dynamic_Bass.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[D:\Incoming\[.WORK]\URL Radio Stream Player\AddonConfig.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[D:\Incoming\[.WORK]\URL Radio Stream Player\BassTest.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[D:\Incoming\[.WORK]\URL Radio Stream Player\ProjectGroup1.bpg]
+FormState=0
+FormOnTop=0
+
+[D:\Incoming\[.WORK]\URL Radio Stream Player\BASSPlay.dpr]
+FormState=0
+FormOnTop=0
+
+[EditWindow0]
+ViewCount=4
+CurrentView=3
+View0=0
+View1=1
+View2=2
+View3=3
+CodeExplorer=CodeExplorer@EditWindow0
+MessageView=MessageView@EditWindow0
+Create=1
+Visible=1
+State=0
+Left=1469
+Top=275
+Width=996
+Height=628
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=980
+ClientHeight=589
+LeftPanelSize=0
+LeftPanelClients=CodeExplorer@EditWindow0
+LeftPanelData=00000400010000000C000000436F64654578706C6F726572000000000000000000000000000000000001000000000000000000000000FFFFFFFF
+RightPanelSize=0
+BottomPanelSize=124
+BottomPanelClients=MessageView@EditWindow0
+BottomPanelData=0000040000000000D403000000000000027C00000000000000010000000000000000000000000100000000D4030000000000000100000000D4030000000000000100000000D4030000000000000100000000D4030000000000000100000000D4030000000000000100000000D4030000000000000100000000D40300000B0000004D65737361676556696577FFFFFFFF
+
+[View0]
+Module=D:\Incoming\[.WORK]\URL Radio Stream Player\BassTest.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View1]
+Module=D:\Incoming\[.WORK]\URL Radio Stream Player\AddonConfig.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View2]
+Module=D:\Incoming\[.WORK]\URL Radio Stream Player\Dynamic_Bass.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View3]
+Module=D:\Incoming\[.WORK]\URL Radio Stream Player\ioplug.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[Watches]
+Count=0
+
+[Breakpoints]
+Count=0
+
+[AddressBreakpoints]
+Count=0
+
+[Main Window]
+Create=1
+Visible=1
+State=2
+Left=1362
+Top=25
+Width=136
+Height=123
+MaxLeft=-1
+MaxTop=-1
+MaxWidth=1296
+MaxHeight=149
+ClientWidth=1280
+ClientHeight=110
+
+[ProjectManager]
+Create=1
+Visible=0
+State=0
+Left=369
+Top=372
+Width=446
+Height=318
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=430
+ClientHeight=279
+TBDockHeight=318
+LRDockWidth=446
+Dockable=1
+
+[AlignmentPalette]
+Create=1
+Visible=0
+State=0
+Left=200
+Top=125
+Width=156
+Height=89
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=150
+ClientHeight=60
+
+[PropertyInspector]
+Create=1
+Visible=1
+State=0
+Left=1295
+Top=387
+Width=275
+Height=604
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=259
+ClientHeight=565
+TBDockHeight=659
+LRDockWidth=246
+Dockable=1
+SplitPos=95
+ArrangeBy=Name
+SelectedItem=Caption
+ExpandedItems=Font
+HiddenCategories=
+
+[ObjectTree]
+Create=1
+Visible=1
+State=0
+Left=1299
+Top=131
+Width=246
+Height=256
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=230
+ClientHeight=217
+TBDockHeight=256
+LRDockWidth=190
+Dockable=1
+
+[CodeExplorer@EditWindow0]
+Create=1
+Visible=0
+State=0
+Left=0
+Top=11
+Width=140
+Height=789
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=140
+ClientHeight=789
+TBDockHeight=305
+LRDockWidth=140
+Dockable=1
+
+[MessageView@EditWindow0]
+Create=1
+Visible=1
+State=0
+Left=12
+Top=0
+Width=968
+Height=124
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=968
+ClientHeight=124
+TBDockHeight=124
+LRDockWidth=443
+Dockable=1
+
+[DockHosts]
+DockHostCount=0
+
