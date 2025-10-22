@@ -2,13 +2,11 @@
 
 </br>
 
-```ruby
-Compiler    : Delphi7 (or Higher)
-Components  : BassDllPlayer.pas, Knob.pas, Slider.pas
-Discription : URL-Radio Stream Player
-Last Update : 09/2025
-License     : Freeware
-```
+![Compiler](https://github.com/user-attachments/assets/a916143d-3f1b-4e1f-b1e0-1067ef9e0401) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: ![D7](https://github.com/user-attachments/assets/2eca70a7-1532-4e3e-bbc6-f768de798524)  
+![Components](https://github.com/user-attachments/assets/d6a7a7a4-f10e-4df1-9c4f-b4a1a8db7f0e) : ![BassDllPlayer pas](https://github.com/user-attachments/assets/739e492e-2b41-4577-94a6-cc6157f431fe) ![KNOB PAS](https://github.com/user-attachments/assets/40645046-5e7b-490b-8fcf-28e85d04b35f) ![slider pas](https://github.com/user-attachments/assets/827e34f1-168a-465d-b0a7-656835a6b7ae)  
+![Discription](https://github.com/user-attachments/assets/4a778202-1072-463a-bfa3-842226e300af) &nbsp;&nbsp;: ![URL-RadioStreamPlayer](https://github.com/user-attachments/assets/34f433f9-5443-4540-81c0-44a9ee688666)  
+![Last Update](https://github.com/user-attachments/assets/e1d05f21-2a01-4ecf-94f3-b7bdff4d44dd) &nbsp;: ![102025](https://github.com/user-attachments/assets/62cea8cc-bd7d-49bd-b920-5590016735c0)  
+![License](https://github.com/user-attachments/assets/ff71a38b-8813-4a79-8774-09a2f3893b48) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: ![Freeware](https://github.com/user-attachments/assets/1fea2bbf-b296-4152-badd-e1cdae115c43)
 
 </br>
 
