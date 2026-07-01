@@ -236,7 +236,7 @@ A Winamp DSP (Digital Signal Processing) plugin is a small software component th
 
 Copy the DSP plug-ins into the "Plugin" folder and modify the code in the OnShow Event from the Form.
 
-### Example Channel Mixer
+### Intigrated example Channel Mixer
 The Channel Mixer is a DSP plug-in for Winamp. It will enable you to create new 
 stereo mixes using the existing right and left channels as input sources. With 
 different combinations, you can create some interesting stereo imagining effects 
