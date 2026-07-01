@@ -66,9 +66,7 @@ eMail : mlynch@gmail.com
 
 Winamp visualization plugin files typically use the .dll (Dynamic Link Library) file extension, as plugins are compiled code files placed in the Winamp/Plugins directory, such as the examples vis_ngm.dll and vis_avs.dll.
 
-After downloading a visualization plugin, you typically copy the .dll file into the Plugins folder in main Dirextory
-
-* Examples:
+After downloading a visualization plugin, you typically copy the .dll file into the Plugins folder in main Directory
 
 ```
 vis_ngm.dll is an example of a Winamp visualization plugin.
