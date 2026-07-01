@@ -42,7 +42,13 @@ Internet radio involves [streaming media](https://en.wikipedia.org/wiki/Streamin
 # Visualization
 Spectrum is a Visualisation showing a rotating 3D Spectrum Analyzer rendered in that moves to the beat of the music creating a wave effect across the spectrum grid.
 
-It also has settings to adjust the spectrum bar height, Its speed, and how the bars are rendered (solid, points, wire frame) and is a nice light weight, low cpu useage visualisation that looks great
+It also has settings to adjust the spectrum bar height, Its speed, and how the bars are rendered (solid, points, wire frame) and is a nice light weight, low cpu useage visualisation that looks great.
+
+### Settings
+<img src="https://github.com/user-attachments/assets/e627a12d-bd2d-4f6b-95ff-21aeb3110d86" />
+
+
+
 
 # PlugIns:
 Winamp plugins extend its functionality, categorizing into types like Input plugins for different audio formats, Output plugins for directing audio, DSP plugins for sound processing, and General Purpose (Gen_) plugins for user interface or feature enhancements. To find and install plugins, you can visit community sites like [winampplugins.co.uk](https://winampplugins.co.uk/), and to develop your own, you can refer to the Winamp SDK. 
