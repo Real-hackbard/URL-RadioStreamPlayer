@@ -270,7 +270,7 @@ SoundFont is a brand name that collectively refers to a file format and associat
 
 Download the [*.SF2](https://en.wikipedia.org/wiki/SoundFont) files and copy them into the "Plugin" folder. They will be automatically recognized and Encoded in MIDI Format.
 
-The files are too large to upload here.
+The files are too large to upload here.  
 Download : [https://musical-artifacts.com/artifacts/1474](https://musical-artifacts.com/artifacts/1474)
 
 ### URL-List:
