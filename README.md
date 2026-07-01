@@ -38,7 +38,7 @@ Internet radio involves [streaming media](https://en.wikipedia.org/wiki/Streamin
 
 </br>
 
-### PlugIns:
+# PlugIns:
 Winamp plugins extend its functionality, categorizing into types like Input plugins for different audio formats, Output plugins for directing audio, DSP plugins for sound processing, and General Purpose (Gen_) plugins for user interface or feature enhancements. To find and install plugins, you can visit community sites like [winampplugins.co.uk](https://winampplugins.co.uk/), and to develop your own, you can refer to the Winamp SDK. 
 
 Copy the plug-ins into the "Plugin" folder and modify the code in the OnShow Event from the Form.
