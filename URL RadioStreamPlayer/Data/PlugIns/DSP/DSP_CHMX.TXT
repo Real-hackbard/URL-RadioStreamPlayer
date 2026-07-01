@@ -1,0 +1,54 @@
+CHANNEL MIXER 1.1
+Dominik Tyniw, OLSZTYN Poland 2002  dtyniw@pf.pl
+--------------------------------------------------------------------------------
+
+
+The Channel Mixer is a DSP plug-in for Winamp. It will enable you to create new 
+stereo mixes using the existing right and left channels as input sources. With 
+different combinations, you can create some interesting stereo imagining effects 
+like: Average, Invert, Swap Channels, Wide Stereo, Vocal Cut...
+
+
+================================
+  1. LICENSE AGREEMENT
+================================
+
+THE CHANNEL MIXER IS DISTRIBUTED "AS IS". NO WARRANTY OF ANY KIND IS EXPRESSED 
+OR IMPLIED. YOU USE IT AT YOUR OWN RISK. THE AUTHOR WILL NOT BE LIABLE FOR DATA 
+LOSS, DAMAGES, LOSS OF PROFITS OR ANY OTHER KIND OF LOSS WHILE USING OR MISUSING 
+THIS SOFTWARE.
+
+Installing and using The Channel Mixer signifies acceptance of these terms and 
+conditions of the license. If you do not agree with the terms of this license, 
+you must remove The Channel Mixer files from your storage devices and cease to 
+use the product.
+
+
+================================
+  2. INSTALLATION
+================================
+
+The Channel Mixer consists of the following files:
+
+    DSP_CHMX.DLL the plug-in DLL file
+    DSP_CHMX.HLP Channel Mixer help file
+    DSP_CHMX.INI configuration file
+    DSP_CHMX.TXT Channel Mixer overview
+
+Copy files listed above to your Winamp DSP/Effect plug-ins folder.
+
+
+================================
+  3. TECHNICAL INFORMATION
+================================
+
+To improve performance the most important functions was written in assembler. 
+The Channel Mixer interface was based only on Windows API, without using visual 
+libraries like MFC or VCL. 
+
+
+================================
+  4. KNOWN BUGS AND LIMITATIONS
+================================
+
+The Channel Mixer works only with 16-bit stereo input signal.
