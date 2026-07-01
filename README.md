@@ -240,6 +240,26 @@ stereo mixes using the existing right and left channels as input sources. With
 different combinations, you can create some interesting stereo imagining effects 
 like: Average, Invert, Swap Channels, Wide Stereo, Vocal Cut...
 
+</br>
+
+<img src="https://github.com/user-attachments/assets/aa858b92-0f3b-485f-b7bc-bbfe14314e59" />
+
+</br>
+
+CHANNEL MIXER 1.1  
+Copyright © 2002 Dominik Tyniw, OLSZTYN Poland  
+eMail : dtyniw@pf.pl  
+
+The Channel Mixer consists of the following files:
+
+    DSP_CHMX.DLL the plug-in DLL file
+    DSP_CHMX.HLP Channel Mixer help file
+    DSP_CHMX.INI configuration file
+    DSP_CHMX.TXT Channel Mixer overview
+
+Copy files listed above to your /DSP/ plug-ins folder.
+
+The Channel Mixer works only with 16-bit stereo input signal.
 
 # Encode Midi:
 SoundFont is a brand name that collectively refers to a file format and associated technology that uses [sample-based synthesis](https://en.wikipedia.org/wiki/Sample-based_synthesis) to play MIDI files. It was first used on the Sound Blaster AWE32 sound card for its [General MIDI support](https://en.wikipedia.org/wiki/General_MIDI).
