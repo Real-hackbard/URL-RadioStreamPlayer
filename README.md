@@ -145,6 +145,7 @@ begin
    for i := 1 to NumFFTBands do
       PeakValue[i] := 0;
 
+   // These components have been replaced and can be assigned new values.
    EQGains[0] := TrackBar1.Position - 15;
    EQGains[1] := TrackBar2.Position - 15;
    EQGains[2] := TrackBar3.Position - 15;
