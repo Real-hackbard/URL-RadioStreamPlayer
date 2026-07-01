@@ -1,14 +1,21 @@
-# URL-RadioStreamPlayer:
+# :computer: URL-RadioStreamPlayer:
 
 </br>
 
-![Compiler](https://github.com/user-attachments/assets/a916143d-3f1b-4e1f-b1e0-1067ef9e0401) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: ![D7](https://github.com/user-attachments/assets/2eca70a7-1532-4e3e-bbc6-f768de798524)  
-![Components](https://github.com/user-attachments/assets/d6a7a7a4-f10e-4df1-9c4f-b4a1a8db7f0e) : ![BassDllPlayer pas](https://github.com/user-attachments/assets/739e492e-2b41-4577-94a6-cc6157f431fe) ![KNOB PAS](https://github.com/user-attachments/assets/40645046-5e7b-490b-8fcf-28e85d04b35f) ![slider pas](https://github.com/user-attachments/assets/827e34f1-168a-465d-b0a7-656835a6b7ae)  
-![Discription](https://github.com/user-attachments/assets/4a778202-1072-463a-bfa3-842226e300af) &nbsp;&nbsp;: ![URL-RadioStreamPlayer](https://github.com/user-attachments/assets/34f433f9-5443-4540-81c0-44a9ee688666)  
-![Last Update](https://github.com/user-attachments/assets/e1d05f21-2a01-4ecf-94f3-b7bdff4d44dd) &nbsp;: ![102025](https://github.com/user-attachments/assets/62cea8cc-bd7d-49bd-b920-5590016735c0)  
-![License](https://github.com/user-attachments/assets/ff71a38b-8813-4a79-8774-09a2f3893b48) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: ![Freeware](https://github.com/user-attachments/assets/1fea2bbf-b296-4152-badd-e1cdae115c43)
+![Compiler](https://github.com/user-attachments/assets/a916143d-3f1b-4e1f-b1e0-1067ef9e0401) <img src="https://github.com/user-attachments/assets/f31ad418-b104-4c87-8a37-876099647af7" />  
+![Components](https://github.com/user-attachments/assets/d6a7a7a4-f10e-4df1-9c4f-b4a1a8db7f0e) <img src="https://github.com/user-attachments/assets/a817ec16-763d-499d-92f0-731470136f19" />  
+![Discription](https://github.com/user-attachments/assets/4a778202-1072-463a-bfa3-842226e300af) ![URL-RadioStreamPlayer](https://github.com/user-attachments/assets/34f433f9-5443-4540-81c0-44a9ee688666)  
+![Last Update](https://github.com/user-attachments/assets/e1d05f21-2a01-4ecf-94f3-b7bdff4d44dd) ![102025](https://github.com/user-attachments/assets/62cea8cc-bd7d-49bd-b920-5590016735c0)  
+![License](https://github.com/user-attachments/assets/ff71a38b-8813-4a79-8774-09a2f3893b48) ![Freeware](https://github.com/user-attachments/assets/1fea2bbf-b296-4152-badd-e1cdae115c43)
 
 </br>
+
+
+
+
+
+
+
 
 Internet radio, also known as online radio, web radio, net radio, streaming radio, e-radio and IP radio, is a [digital audio](https://en.wikipedia.org/wiki/Digital_audio) service transmitted via the Internet. Broadcasting on the Internet is usually referred to as [webcasting](https://en.wikipedia.org/wiki/Webcast) since it is not transmitted broadly through wireless means. It can either be used as a stand-alone device running through the Internet, or as a software running through a single Computer.
 
