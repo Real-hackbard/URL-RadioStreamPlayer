@@ -17,7 +17,7 @@ Internet radio is generally used to communicate and easily spread messages throu
 Internet radio involves [streaming media](https://en.wikipedia.org/wiki/Streaming_media), presenting listeners with a continuous stream of audio that typically cannot be paused or replayed, much like traditional broadcast media; in this respect, it is distinct from on-demand file serving. Internet radio is also distinct from [podcasting](https://en.wikipedia.org/wiki/Podcast), which involves [downloading](https://en.wikipedia.org/wiki/Download) rather than streaming.
 
 ### Update Notes
-* Remove Components (Slider.pas; Knob.pas)
+* Remove Components (```Slider.pas; Knob.pas```)
 * Replace slider component with VCL TrackBar
 * Load DSP PlugIns
 * Load Bass AddOns
