@@ -19,6 +19,10 @@ Internet radio involves [streaming media](https://en.wikipedia.org/wiki/Streamin
 ### Update Notes
 * Remove Components (Slider.pas; Knob.pas)
 * Replace slider component with VCL TrackBar
+* Load DSP PlugIns
+* Load Bass AddOns
+* Load InputPlugIns
+* LOad Vis-PlugIn Control
 
 ### Features
 * URL-Stream Player
