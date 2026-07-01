@@ -22,7 +22,7 @@ Internet radio involves [streaming media](https://en.wikipedia.org/wiki/Streamin
 * Load DSP PlugIns
 * Load Bass AddOns
 * Load InputPlugIns
-* LOad Vis-PlugIn Control
+* Load Vis-PlugIn Control
 
 ### Features
 * URL-Stream Player
