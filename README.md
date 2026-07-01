@@ -278,7 +278,7 @@ Download the [*.SF2](https://en.wikipedia.org/wiki/SoundFont) files and copy the
 The files are too large to upload here.  
 Download : [https://musical-artifacts.com/artifacts/1474](https://musical-artifacts.com/artifacts/1474)
 
-# URL-List:
+# URL-Radio List:
 You can edit your own Radio-URL list, which will be automatically detected in the "URL\lst.ini" folder.
 
 ### Intigrated Radio links:
