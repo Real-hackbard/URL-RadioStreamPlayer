@@ -64,6 +64,11 @@ eMail : mlynch@gmail.com
 
 </br>  
 
+# Tag Edit
+supports ID3v1, ID3v2.3, ID3v2.4, Ogg, WMA, Vorbis Comments. It can rename files based on the tag information, replace characters or words in tags and filenames, import/export tag information, create playlists and more.
+
+It is especially useful for [audio books](https://wiki.mobileread.com/wiki/Audio_books) that need corrections to the title to get them to play in the right order.
+
 
 # PlugIns:
 Winamp plugins extend its functionality, categorizing into types like Input plugins for different audio formats, Output plugins for directing audio, DSP plugins for sound processing, and General Purpose (Gen_) plugins for user interface or feature enhancements. To find and install plugins, you can visit community sites like [winampplugins.co.uk](https://winampplugins.co.uk/), and to develop your own, you can refer to the Winamp SDK. 
