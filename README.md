@@ -44,8 +44,16 @@ Spectrum is a Visualisation showing a rotating 3D Spectrum Analyzer rendered in 
 
 It also has settings to adjust the spectrum bar height, Its speed, and how the bars are rendered (solid, points, wire frame) and is a nice light weight, low cpu useage visualisation that looks great.
 
-### Settings
+### :wrench: Settings
+</br>
 <img src="https://github.com/user-attachments/assets/e627a12d-bd2d-4f6b-95ff-21aeb3110d86" />
+</br>
+
+### Examples
+</br>
+<img src="https://github.com/user-attachments/assets/922b42df-8899-4801-8ec8-cd6eb8c6dbb6" />  
+<img src="https://github.com/user-attachments/assets/80b1b0c6-63a5-47f4-9213-362d93fae879" />  
+<img src="https://github.com/user-attachments/assets/84c76923-dd78-44d4-8ed6-91d2aeca8e05" />  
 
 
 
