@@ -60,6 +60,8 @@ It also has settings to adjust the spectrum bar height, Its speed, and how the b
 </br>
 </br>
 
+21 visualizations are available.
+
 Classic Spectrum Analyzer  
 Copyright © 2007 Mike Lynch  
 eMail : mlynch@gmail.com  
