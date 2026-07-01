@@ -76,6 +76,10 @@ vis_avs.dll is the file for the Advanced Visualization Studio (AVS) plugin.
 </br>  
 
 # Tag Edit
+A tag editor is an app that can add, edit, or remove embedded [](https://en.wikipedia.org/wiki/Metadata)metadata on multimedia file formats. Content creators, such as musicians, photographers, podcasters, and video producers, may need to properly label and manage their creations, adding such details as title, creator, date of creation, and copyright notice.
+
+You can edit the different tag audio formats directly from the program.
+
 supports ```ID3v1, ID3v2.3, ID3v2.4, Ogg, WMA, Vorbis```. It can rename files based on the tag information, replace characters or words in tags and filenames, import/export tag information, create playlists and more.
 
 It is especially useful for [audio books](https://wiki.mobileread.com/wiki/Audio_books) that need corrections to the title to get them to play in the right order.
@@ -276,8 +280,5 @@ Download : [https://musical-artifacts.com/artifacts/1474](https://musical-artifa
 ### URL-List:
 You can edit your own Radio-URL list, which will be automatically detected in the "URL\lst.ini" folder.
 
-### Tag Editors:
-A tag editor is an app that can add, edit, or remove embedded [](https://en.wikipedia.org/wiki/Metadata)metadata on multimedia file formats. Content creators, such as musicians, photographers, podcasters, and video producers, may need to properly label and manage their creations, adding such details as title, creator, date of creation, and copyright notice.
 
-You can edit the different tag audio formats directly from the program.
 
