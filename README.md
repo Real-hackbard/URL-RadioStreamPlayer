@@ -62,6 +62,7 @@ Classic Spectrum Analyzer
 Copyright © 2007 Mike Lynch  
 eMail : mlynch@gmail.com  
 
+</br>  
 
 
 # PlugIns:
