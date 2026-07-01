@@ -280,5 +280,35 @@ Download : [https://musical-artifacts.com/artifacts/1474](https://musical-artifa
 ### URL-List:
 You can edit your own Radio-URL list, which will be automatically detected in the "URL\lst.ini" folder.
 
-
+### Intigrated Radio links:
+http://waw.ic.smcdn.pl/2330-1.mp3
+http://hydra.cdnstream.com/1536_128
+http://organichiphop.filehostia.com:8504/stream
+http://live.powerhitz.com/lit
+http://air.radioart.com/fLove_songs.mp3
+http://media-ssl.musicradio.com/CapitalMP3
+http://ntvrdwmp.radyotvonline.com/;
+http://bbkissfm.kissfmradio.cires21.com/bbkissfm.mp3
+http://kisskiss.fluidstream.eu/KissKiss.mp3
+http://streaming.nrjaudio.fm/oumrha8fnozc
+http://streaming.nrjaudio.fm/ou8vs6gk7oiu
+http://stream.klassikradio.de/newclassics/mp3-192/
+http://stream.epic-classical.com/classical-love-music
+http://stream.zeno.fm/6z99pfyw67zuv
+http://media-ssl.musicradio.com/ClassicFMMP3
+http://stream.rockantenne.de/classic-perlen/stream/mp3
+http://stream.rockantenne.de/blues-rock/stream/mp3
+http://stream.rockantenne.de/70er-rock/stream/mp3
+http://stream.rockantenne.de/80er-rock/stream/mp3
+http://stream.rockantenne.de/90er-rock/stream/mp3
+http://dispatcher.rndfnk.com/rbb/rbbkultur/live/mp3/high
+http://stream.rtlradio.de/greatesthits/mp3-192/
+http://crystalout.surfernetwork.com:8001/KRMP_MP3
+http://nr9.newradio.it:9565/stream
+http://ais-sa2.cdnstream1.com/1674_128
+http://hemnos.cdnstream.com/1881_128
+http://listen.181fm.com/181-80srnb_128k.mp3
+http://stream.radiojar.com/ypargqan2qzuv
+http://organichiphop.filehostia.com:8504/stream
+http://play.global.audio/radio1128
 
