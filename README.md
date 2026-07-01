@@ -56,9 +56,9 @@ It also has settings to adjust the spectrum bar height, Its speed, and how the b
 <img src="https://github.com/user-attachments/assets/84c76923-dd78-44d4-8ed6-91d2aeca8e05" />  
 </br>
 
-Classic Spectrum Analyzer
-Copyright © 2007 Mike Lynch
-eMail : mlynch@gmail.com
+Classic Spectrum Analyzer  
+Copyright © 2007 Mike Lynch  
+eMail : mlynch@gmail.com  
 
 
 
