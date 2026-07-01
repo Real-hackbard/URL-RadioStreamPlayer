@@ -245,6 +245,8 @@ like: Average, Invert, Swap Channels, Wide Stereo, Vocal Cut...
 <img src="https://github.com/user-attachments/assets/aa858b92-0f3b-485f-b7bc-bbfe14314e59" />
 
 </br>
+</br>
+
 
 CHANNEL MIXER 1.1  
 Copyright © 2002 Dominik Tyniw, OLSZTYN Poland  
