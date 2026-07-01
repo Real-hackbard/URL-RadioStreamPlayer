@@ -30,7 +30,7 @@ Internet radio involves [streaming media](https://en.wikipedia.org/wiki/Streamin
 
 </br>
 
-![URL Radio Stream Player](https://github.com/user-attachments/assets/e4d981c8-a276-47ad-aa87-0d78de8e6a72)
+<img src="https://github.com/user-attachments/assets/b60bfea1-2cd0-46f1-9433-717510403345" />
 
 </br>
 
