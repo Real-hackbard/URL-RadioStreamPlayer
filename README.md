@@ -62,6 +62,17 @@ Classic Spectrum Analyzer
 Copyright © 2007 Mike Lynch  
 eMail : mlynch@gmail.com  
 
+Winamp visualization plugin files typically use the .dll (Dynamic Link Library) file extension, as plugins are compiled code files placed in the Winamp/Plugins directory, such as the examples vis_ngm.dll and vis_avs.dll.
+
+After downloading a visualization plugin, you typically copy the .dll file into the Plugins folder in main Dirextory
+
+* Examples:
+
+```
+vis_ngm.dll is an example of a Winamp visualization plugin.
+vis_avs.dll is the file for the Advanced Visualization Studio (AVS) plugin. 
+```
+
 </br>  
 
 # Tag Edit
@@ -218,21 +229,14 @@ end;
 </br>
 
 
-### DSP Plugin:
+# DSP Plugin:
 A Winamp DSP (Digital Signal Processing) plugin is a small software component that modifies audio in real-time, allowing for effects and enhancements during playback, such as equalization, reverb, or special audio manipulation. These plugins are created using a software development kit (SDK) for the Winamp player, which supports different plugin types, including DSP/Effect plugins. They are often shared, installed, and used by other programs like [MediaMonkey Wiki](https://www.mediamonkey.com/wiki/Winamp_Plug-ins_(MM4)) and [foobar2000](https://wiki.hydrogenaudio.org/index.php?title=Foobar2000:Components/Winamp_DSP_Bridge_(foo_dsp_winamp)), which can run Winamp's plug-in architecture.
 
 Copy the DSP plug-ins into the "Plugin" folder and modify the code in the OnShow Event from the Form.
 
-### Visualization Plugin:
-Winamp visualization plugin files typically use the .dll (Dynamic Link Library) file extension, as plugins are compiled code files placed in the Winamp/Plugins directory, such as the examples vis_ngm.dll and vis_avs.dll.
-After downloading a visualization plugin, you typically copy the .dll file into the Plugins folder within your Winamp installation directory.
-*Examples:
-```
-vis_ngm.dll is an example of a Winamp visualization plugin.
-vis_avs.dll is the file for the Advanced Visualization Studio (AVS) plugin. 
-```
 
-### Encode Midi:
+
+# Encode Midi:
 SoundFont is a brand name that collectively refers to a file format and associated technology that uses [sample-based synthesis](https://en.wikipedia.org/wiki/Sample-based_synthesis) to play MIDI files. It was first used on the Sound Blaster AWE32 sound card for its [General MIDI support](https://en.wikipedia.org/wiki/General_MIDI).
 
 Download the [*.SF2](https://en.wikipedia.org/wiki/SoundFont) files and copy them into the "Plugin" folder. They will be automatically recognized and Encoded in MIDI Format.
