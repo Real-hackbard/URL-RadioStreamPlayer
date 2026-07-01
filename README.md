@@ -135,42 +135,44 @@ begin
    BassPlayer1.OnVisWindowShow := GetVisPluginInfo;
    BassPlayer1.OnPluginRequest := ProcessPluginRequest;
 
-   VolumeKnob.Position := BassPlayer1.Volume;
+   ScrollBar1.Position := BassPlayer1.Volume;
    CreateBasicImage;
    ShowBackground;
    for i := 1 to NumFFTBands do
       PeakValue[i] := 0;
 
-   EQGains[0] := Slider1.Value - 15.0;
-   EQGains[1] := Slider2.Value - 15.0;
-   EQGains[2] := Slider3.Value - 15.0;
-   EQGains[3] := Slider4.Value - 15.0;
-   EQGains[4] := Slider5.Value - 15.0;
-   EQGains[5] := Slider6.Value - 15.0;
-   EQGains[6] := Slider7.Value - 15.0;
-   EQGains[7] := Slider8.Value - 15.0;
-   EQGains[8] := Slider9.Value - 15.0;
-   EQGains[9] := Slider10.Value - 15.0;
+   EQGains[0] := TrackBar1.Position - 15;
+   EQGains[1] := TrackBar2.Position - 15;
+   EQGains[2] := TrackBar3.Position - 15;
+   EQGains[3] := TrackBar4.Position - 15;
+   EQGains[4] := TrackBar5.Position - 15;
+   EQGains[5] := TrackBar6.Position - 15;
+   EQGains[6] := TrackBar7.Position - 15;
+   EQGains[7] := TrackBar8.Position - 15;
+   EQGains[8] := TrackBar9.Position - 15;
+   EQGains[9] := TrackBar10.Position - 15;
 
-   EchoSlider.Value := BassPlayer1.EchoLevel;
-   ReverbSlider.Value := BassPlayer1.ReverbLevel;
+   TrackBar11.Position := BassPlayer1.EchoLevel;
+   TrackBar12.Position := BassPlayer1.ReverbLevel;
 
    if BassPlayer1.PlayerReady then
    begin
       //LoadWinampPlugin('in_cdda.dll');
       //LoadWinampPlugin('in_asf.dll');
-      //LoadWinampPlugin('in_midi.dll');       // I have found that it is unable to load in_midi v3.16.
-      //LoadWinampPlugin('in_wm_old.dll');     // So, I use in_midi v3.07.
+      LoadWinampPlugin(ProgDir + 'Data\Plugins\in_midi.dll');   // I have found that it is unable to load in_midi v3.16.
+        // So, I use in_midi v3.07.
+
+      //LoadWinampPlugin('in_wm_old.dll');
 
       BassPlayer1.PluginFirst := false;
 
     // Following sentences are for supporting BASSMDID
       if BassPlayer1.BASSMIDIReady then
-         if FileExists(ProgDir + 'Plugins\Chorium.SF2') then
+         if FileExists(ProgDir + 'Data\Plugins\Chorium.SF2') then
          begin
          // You can use any SF2 soundfont other than Chorium.SF2 to activate BASSMIDI.dll.
          // However this demo program requires Chorium.SF2.
-            if BassPlayer1.MIDIFontInit(ProgDir + 'Plugins\Chorium.SF2', MIDI_FONTINFO) then
+            if BassPlayer1.MIDIFontInit(ProgDir + 'Data\Plugins\Chorium.SF2', MIDI_FONTINFO) then
             begin
                if BassPlayer1.MIDISoundReady then
                   InfoMemo.Lines.Add('MIDI sound ready !');
@@ -215,12 +217,12 @@ begin
       cbEMBEDSwitchMode.Checked := false;
 
    if BassPlayer1.PlayerReady then
-      Timer_Stat.Enabled := true;
+      Timer1.Enabled := true;
 
    Saved8087CW := Default8087CW;
    Set8087CW($133f);  // Disable all fpu exceptions
 
-   ComboBox1.Items.LoadFromFile(ExtractFilePath(Application.ExeName) +  'URL\lst.ini');
+   ComboBox1.Items.LoadFromFile(ProgDir +  'Data\URL\lst.ini');
    ComboBox1.ItemIndex := 0;
 end;
 ```
